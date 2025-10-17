@@ -1,4 +1,4 @@
-# Lead Scoring Case Study
+# Lead Prioritization Model
 
 ## **Overview**
 X Education, an online course provider for industry professionals, attracts potential learners through digital marketing efforts. These visitors can browse courses, watch videos, or fill out a form to become leads. However, only **30%** of leads typically convert into customers.  
